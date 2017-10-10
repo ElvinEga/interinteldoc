@@ -10,5 +10,13 @@ Django server then responds with the users details in json form.
 
 _Django search function_
 
-![](/assets/search django.png)
+`users/views.py`
+
+![](/assets/search django.png)_Polymer function_
+
+`src/search-page.html`![](/assets/search polymer.png)
+
+Screenshot
+
+![](/assets/polymer search.png)
 
