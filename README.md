@@ -18,7 +18,7 @@ ascending order and all the alpha keys should be sorted in
 
 ascii, ascending order.
 
-```
+```py
 Dictionary = {‘34’: ’thirty-four’, ‘90’: ‘ninety’,
 ‘91’: ‘ninety-one’‘21’: ‘twenty-one’,
 ‘61’: ‘sixty-one’, ‘9’: ‘nine’,
