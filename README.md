@@ -45,9 +45,17 @@ deployed on a red-hat based Linux environment,
 
 preferably \(CentOS\)
 
-  2. Give examples of different integration protocols you have
+  2.Give examples of different integration protocols you have
 
 come across and give example scripts in either python or
 
 polymer on how to achieve each one.
+
+ 3.Give examples of different encryption/hashing methods
+
+you have come across \(one way and two way\) and give
+
+example scripts in either python or polymer on how to
+
+achieve each one.
 
