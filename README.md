@@ -45,17 +45,41 @@ deployed on a red-hat based Linux environment,
 
 preferably \(CentOS\)
 
-  2.Give examples of different integration protocols you have
+2.Give examples of different integration protocols you have
 
 come across and give example scripts in either python or
 
 polymer on how to achieve each one.
 
- 3.Give examples of different encryption/hashing methods
+3.Give examples of different encryption/hashing methods
 
 you have come across \(one way and two way\) and give
 
 example scripts in either python or polymer on how to
 
 achieve each one.
+
+ 4.Create a login and a success page using Javascript,
+
+Polymer web elements and JSON for an html5 cross-
+
+platform mobile application. A mockup of the created
+
+pages should also be submitted. The mockups should
+
+have been created by using photoshop, illustrator or
+
+other advanced design tools thus showcasing prowess
+
+in usage of the tools. Use of standalone deployments
+
+like Node.js or Chrome execution deployments isaccepted. 
+
+Ensure that the sessions are well and
+
+securely managed. The application should be
+
+executable on the following platforms \(Android, iOS,
+
+BlackBerrry & Windows\)
 
