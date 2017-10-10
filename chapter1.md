@@ -35,5 +35,17 @@ The result can be seen when you send a get request to this url.
 
 [https://interdjango.herokuapp.com/dict/get\_dict/](https://interdjango.herokuapp.com/dict/get_dict/)
 
+### Polymer js
 
+Wrote a vanilla js script with algoritm.
+
+First was function sort numbers to check if key is integer then sorts it
+
+Then a sortOnKey fuction to sort the keys and values .
+
+The script is found in
+
+&gt;src/array-page.html
+
+The Result can be found on The polymer app Arrays tab.
 
