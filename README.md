@@ -6,7 +6,7 @@ This document contains the interview project for interintel technologies.
 
 ### Objectives
 
-This are the tasks required to be accomplished by the project
+1. This are the tasks required to be accomplished by the project
 
 Sort the below dictionary/array key using Javascript and
 
