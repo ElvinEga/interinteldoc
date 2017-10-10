@@ -23,7 +23,7 @@ Dictionary = {'34': 'thirty-four', '90': 'ninety',
 
 Wrote a test case to test if my algorithm will work its located at
 
-` interintel/dict/tests.py`
+`interintel/dict/tests.py`
 
 Used a custom sort function with a lambda expression. The custom sort function calls a
 
@@ -33,5 +33,5 @@ catch if not.integer keys are sort first then the alphabetic keys.
 
 The result can be seen when you send a get request to this url.
 
-&gt; [https://interdjango.herokuapp.com/dict/get\_dict/](https://interdjango.herokuapp.com/dict/get_dict/)
+ [https://interdjango.herokuapp.com/dict/get\_dict/](https://interdjango.herokuapp.com/dict/get_dict/)
 
