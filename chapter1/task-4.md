@@ -8,5 +8,7 @@ The polymer front end requests using characters inputed.
 
 Django server then responds with the users details in json form.
 
+_Django search function_
 
+![](/assets/search django.png)
 
