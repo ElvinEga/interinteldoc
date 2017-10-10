@@ -4,3 +4,7 @@ The projects were built to accomplish each tasks from the back end server \(djan
 
 front end \(polymer and native android app\).
 
+## Task 1
+
+
+
