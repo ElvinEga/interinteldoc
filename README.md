@@ -27,5 +27,21 @@ Dictionary = {‘34’: ’thirty-four’, ‘90’: ‘ninety’,
 ‘Ninety-Nine’: ’99’, ‘nine-hundred’: ‘900’,}
 ```
 
+_NB: The code snippet should be deployed using one of the two_
 
+options below:
+
+a. A HTML5 cross-platform mobile application using
+
+Cordova. Use of standalone deployments like Node.js
+
+or Chrome execution deployments is accepted.
+
+b. A Django application on apache/nginx webserver and
+
+NOT the development server. This should also be
+
+deployed on a red-hat based Linux environment,
+
+preferably \(CentOS\)
 
