@@ -14,3 +14,7 @@ Created Model to implement this db structure to postgres db
 
 `users/view.py`
 
+Polymer
+
+
+
