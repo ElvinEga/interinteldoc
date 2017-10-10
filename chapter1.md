@@ -35,6 +35,8 @@ The result can be seen when you send a get request to this url.
 
 [https://interdjango.herokuapp.com/dict/get\_dict/](https://interdjango.herokuapp.com/dict/get_dict/)
 
+
+
 ### Polymer js
 
 Wrote a vanilla js script with algoritm.
@@ -48,4 +50,6 @@ The script is found in
 `src/array-page.html`
 
 The Result can be found on The polymer app Arrays tab.
+
+
 
