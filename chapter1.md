@@ -4,11 +4,13 @@ The projects were built to accomplish each tasks from the back end server \(djan
 
 front end \(polymer and native android app\).
 
-The publick repositories for the projects
+The public repositories for the projects
 
 django  =&gt; [https://elvinega@bitbucket.org/elvinega/djangointer.git](https://elvinega@bitbucket.org/elvinega/djangointer.git )
 
- Polymer =&gt; 
+Polymer =&gt;
+
+Android Native =&gt;
 
 ## Task 1
 
