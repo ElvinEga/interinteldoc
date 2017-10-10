@@ -12,5 +12,5 @@ Created Model to implement this db structure to postgres db
 
 ![](/assets/migration.png)Created a view for login to provide Restful services
 
-`users/view.py`
+$ `users/view.py`
 
