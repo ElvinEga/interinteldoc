@@ -19,5 +19,19 @@ Dictionary = {'34': 'thirty-four', '90': 'ninety',
 'Ninety-Nine': '99', 'nine-hundred': '900',}
 ```
 
+### Django
 
+Wrote a test case to test if my algorithm will work its located at
+
+&gt; interintel/dict/tests.py
+
+Used a custom sort function with a lambda expression. The custom sort function calls a
+
+function get\_key\(\) which has a try catch expression to check if the key is integer and is
+
+catch if not.integer keys are sort first then the alphabetic keys.
+
+The result can be seen when you send a get request to this url.
+
+&gt; https://interdjango.herokuapp.com/dict/get\_dict/
 
