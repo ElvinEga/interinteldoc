@@ -10,5 +10,7 @@ Created Model to implement this db structure to postgres db
 
 `$ python manage.py migrate`
 
-![](/assets/migration.png)
+![](/assets/migration.png)Created a view for login to provide Restful services
+
+`users/view.py`
 
