@@ -45,3 +45,9 @@ deployed on a red-hat based Linux environment,
 
 preferably \(CentOS\)
 
+  2. Give examples of different integration protocols you have
+
+come across and give example scripts in either python or
+
+polymer on how to achieve each one.
+
