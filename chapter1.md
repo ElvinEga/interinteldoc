@@ -4,6 +4,12 @@ The projects were built to accomplish each tasks from the back end server \(djan
 
 front end \(polymer and native android app\).
 
+The publick repositories for the projects
+
+django  =&gt; [https://elvinega@bitbucket.org/elvinega/djangointer.git](https://elvinega@bitbucket.org/elvinega/djangointer.git )
+
+ Polymer =&gt; 
+
 ## Task 1
 
 The first task had a bug on the dictionary.There is a comma missing `91’: ‘ninety-one’,”‘21’:`
@@ -54,6 +60,4 @@ The script is found in
 The Result can be found on The polymer app Arrays tab.
 
 ![](/assets/arraylist.png)
-
-
 
