@@ -83,9 +83,9 @@ executable on the following platforms \(Android, iOS,
 
 BlackBerrry & Windows\)
 
-# Tools and Requirement Environment
+## Tools and Requirement Environment
 
-### LINUX
+#### LINUX
 
 * GNOME    
 * Tested    on    Ubuntu®    14.04    LTS,    Trusty    Tahr    \(64-bit    distribution    capable    of
