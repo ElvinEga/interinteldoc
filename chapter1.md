@@ -8,7 +8,7 @@ The public repositories for the projects
 
 django  =&gt; [https://elvinega@bitbucket.org/elvinega/djangointer.git](https://elvinega@bitbucket.org/elvinega/djangointer.git )
 
-Polymer =&gt;
+Polymer =&gt;[https://elvinega@bitbucket.org/elvinega/interpolymer.git](https://elvinega@bitbucket.org/elvinega/interpolymer.git)
 
 Android Native =&gt;
 
