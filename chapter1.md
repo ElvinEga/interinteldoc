@@ -51,5 +51,3 @@ The script is found in
 
 The Result can be found on The polymer app Arrays tab.
 
-
-
