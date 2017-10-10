@@ -49,7 +49,11 @@ The script is found in
 
 `src/array-page.html`
 
+![](/assets/polymer array.png)
+
 The Result can be found on The polymer app Arrays tab.
 
 ![](/assets/arraylist.png)
+
+
 
