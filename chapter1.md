@@ -45,7 +45,7 @@ Then a sortOnKey fuction to sort the keys and values .
 
 The script is found in
 
-&gt;src/array-page.html
+`src/array-page.html`
 
 The Result can be found on The polymer app Arrays tab.
 
