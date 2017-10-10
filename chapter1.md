@@ -1,15 +1,8 @@
-# Tools and Requirement Environment
+# 
 
-### LINUX
+## Project tasks
 
-* GNOME    
-* Tested    on    Ubuntu®    14.04    LTS,    Trusty    Tahr    \(64-bit    distribution    capable    of
-* running    32-bit    applications\)
-* 64-bit    distribution    capable    of    running    32-bit    applications
-* Python 2.7
-* Node js
+The projects were built to accomplish each tasks from the back end server \(django\) to
 
-
-
-
+front end \(polymer and native android app\)
 

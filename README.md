@@ -59,7 +59,7 @@ example scripts in either python or polymer on how to
 
 achieve each one.
 
- 4.Create a login and a success page using Javascript,
+4.Create a login and a success page using Javascript,
 
 Polymer web elements and JSON for an html5 cross-
 
@@ -73,7 +73,7 @@ other advanced design tools thus showcasing prowess
 
 in usage of the tools. Use of standalone deployments
 
-like Node.js or Chrome execution deployments isaccepted. 
+like Node.js or Chrome execution deployments isaccepted.
 
 Ensure that the sessions are well and
 
@@ -82,4 +82,17 @@ securely managed. The application should be
 executable on the following platforms \(Android, iOS,
 
 BlackBerrry & Windows\)
+
+# Tools and Requirement Environment
+
+### LINUX
+
+* GNOME    
+* Tested    on    Ubuntu®    14.04    LTS,    Trusty    Tahr    \(64-bit    distribution    capable    of
+* running    32-bit    applications\)
+* 64-bit    distribution    capable    of    running    32-bit    applications
+* Python 2.7
+* Node js
+
+
 
